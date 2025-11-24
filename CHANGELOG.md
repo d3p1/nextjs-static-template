@@ -1,3 +1,10 @@
+# 1.0.0 (2025-11-24)
+
+
+### Features
+
+* init [[#1](https://github.com/d3p1/nextjs-static-template/issues/1)] ([acad76c](https://github.com/d3p1/nextjs-static-template/commit/acad76cbfd59b5d46ae58c7206624fe3fc7850e3))
+
 # [1.1.0](https://github.com/d3p1/nextjs-standalone-template/compare/v1.0.0...v1.1.0) (2025-11-24)
 
 
