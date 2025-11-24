@@ -1,0 +1,49 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "description": "A Next.js template that uses static mode",
+  "private": true,
+  "scripts": {
+    "format:code": "prettier --ignore-path .gitignore --check src",
+    "format:code:fix": "npm run format:code -- --write",
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3p1/nextjs-static-template.git"
+  },
+  "author": "C. M. de Picciotto <d3p1@d3p1.dev> (https://d3p1.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d3p1/nextjs-static-template/issues"
+  },
+  "homepage": "https://github.com/d3p1/nextjs-static-template#readme",
+  "keywords": [
+    "nextjs",
+    "react",
+    "javascript",
+    "typescript"
+  ],
+  "dependencies": {
+    "next": "16.0.3",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@d3p1/commitlint-config": "^1.0.1",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.3",
+    "eslint-config-prettier": "^10.1.5",
+    "prettier": "3.0.3",
+    "husky": "8.0.3",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
