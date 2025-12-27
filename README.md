@@ -12,7 +12,13 @@
 
 A template to build things using [`Next.js`](https://nextjs.org/) and its [`static`](https://nextjs.org/docs/app/guides/static-exports) mode.
 
-It comes with a [GitHub Action](./.github/workflows/publish.yml) to automatically deploy the app to [GitHub Pages](https://docs.github.com/en/pages).
+It comes with a [GitHub Action](./.github/workflows/publish.yml) to automatically deploy the app to [GitHub Pages](https://docs.github.com/en/pages). On top of that, it implements [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) with [`commitlint`](https://commitlint.js.org/) and [`husky`](https://typicode.github.io/husky/) to [automate the generation of releases](./.github/workflows/release.yml). Finally, it also brings [`prettier`](https://prettier.io/) as coding formatter.
+
+> [!NOTE]
+> The used [`commitlint` configuration](https://github.com/d3p1/commitlint-config) forces you to write commit messages with the following format: `<type>(<scope>): <description> [<issue-number>]`
+
+> [!NOTE]
+> This template comes with a [startup script](./.idea/runConfigurations/Dev.xml) for [WebStorm](https://www.jetbrains.com/webstorm/). However, the script will only run if this template is used inside a [`docknext`](https://github.com/d3p1/docknext) environment with the following folder structure: a `<doc-root>/infra` folder where the `docker` files/services live, and a `<doc-root>/www` folder where this template lives. 
 
 ## Usage
 
