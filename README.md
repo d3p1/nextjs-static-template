@@ -16,7 +16,20 @@ It comes with a [GitHub Action](./.github/workflows/publish.yml) to automaticall
 
 ## Usage
 
-To deploy your app, run:
+Update the following [`package.json`](package.json) settings:
+
+- `description`
+- `repository.url`
+- `author`
+- `bugs.url`
+- `homepage`
+- `keywords`
+
+Update the following [`next.config.ts`](next.config.ts) settings:
+
+- `basePath`
+
+Finally, to deploy your app, run:
 
 - `npm run build`
 
