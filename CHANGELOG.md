@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/d3p1/nextjs-static-template/compare/v1.0.0...v1.0.1) (2025-11-24)
+
+
+### Bug Fixes
+
+* solve eslint and prettier configuration [[#1](https://github.com/d3p1/nextjs-static-template/issues/1)] ([2dea875](https://github.com/d3p1/nextjs-static-template/commit/2dea8754629cae42120d0352c73b95370c7578e1))
+
 # 1.0.0 (2025-11-24)
 
 
