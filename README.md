@@ -16,6 +16,8 @@ It comes with a [GitHub Action](./.github/workflows/publish.yml) to automaticall
 
 ## Usage
 
+Update the [`README.md`](README.md), specifically the badges.
+
 Update the following [`package.json`](package.json) settings:
 
 - `description`
