@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/d3p1/nextjs-static-template/compare/v1.0.1...v1.0.2) (2025-12-27)
+
+
+### Bug Fixes
+
+* add patch that solves framework vulnerability issue [[#1](https://github.com/d3p1/nextjs-static-template/issues/1)] ([e958ef8](https://github.com/d3p1/nextjs-static-template/commit/e958ef88360039b8d03bad52c7281bcecd0573f4))
+* add remote changes [[#1](https://github.com/d3p1/nextjs-static-template/issues/1)] ([d0d962c](https://github.com/d3p1/nextjs-static-template/commit/d0d962c91e7c0302bd354dfe05a506607d0b3a07))
+
 ## [1.0.1](https://github.com/d3p1/nextjs-static-template/compare/v1.0.0...v1.0.1) (2025-11-24)
 
 
