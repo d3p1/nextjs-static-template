@@ -1,7 +1,3 @@
-/**
- * @description Layout
- * @author      C. M. de Picciotto <d3p1@d3p1.dev> (https://d3p1.dev/)
- */
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";

@@ -32,18 +32,26 @@
     "react-dom": "19.2.3"
   },
   "devDependencies": {
-    "@commitlint/cli": "^19.8.1",
-    "@d3p1/commitlint-config": "^1.0.1",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "16.0.3",
+    "eslint-config-next": "16.1.1",
+    "tailwindcss": "^4",
+    "typescript": "^5",
+    "@commitlint/cli": "^19.8.1",
+    "@d3p1/commitlint-config": "^1.0.1",
     "eslint-config-prettier": "^10.1.5",
     "prettier": "3.0.3",
-    "husky": "8.0.3",
-    "tailwindcss": "^4",
-    "typescript": "^5"
-  }
+    "husky": "8.0.3"
+  },
+  "ignoreScripts": [
+    "sharp",
+    "unrs-resolver"
+  ],
+  "trustedDependencies": [
+    "sharp",
+    "unrs-resolver"
+  ]
 }
