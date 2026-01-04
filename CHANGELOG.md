@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/d3p1/nextjs-static-template/compare/v1.0.2...v1.1.0) (2026-01-04)
+
+
+### Bug Fixes
+
+* add IDE fieles to gitignore [[#1](https://github.com/d3p1/nextjs-static-template/issues/1)] ([6195242](https://github.com/d3p1/nextjs-static-template/commit/619524201820e2f7a31c9c6a54aaaea986dd4084))
+
+
+### Features
+
+* upgrade to use src dir and bun [[#1](https://github.com/d3p1/nextjs-static-template/issues/1)] ([69682c0](https://github.com/d3p1/nextjs-static-template/commit/69682c08e8a39ac214d9090957ea7f58cea8fe72))
+
 ## [1.0.2](https://github.com/d3p1/nextjs-static-template/compare/v1.0.1...v1.0.2) (2025-12-27)
 
 
