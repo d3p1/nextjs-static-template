@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/d3p1/nextjs-static-template/compare/v1.1.1...v1.1.2) (2026-01-04)
+
+
+### Bug Fixes
+
+* adjust demo page image links [[#1](https://github.com/d3p1/nextjs-static-template/issues/1)] ([2b3dd5c](https://github.com/d3p1/nextjs-static-template/commit/2b3dd5c89d516342cf0ec0983a6cfee8deb64999))
+
 ## [1.1.1](https://github.com/d3p1/nextjs-static-template/compare/v1.1.0...v1.1.1) (2026-01-04)
 
 
