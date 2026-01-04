@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/d3p1/nextjs-static-template/compare/v1.1.0...v1.1.1) (2026-01-04)
+
+
+### Bug Fixes
+
+* update package-lock.json [[#1](https://github.com/d3p1/nextjs-static-template/issues/1)] ([2b23288](https://github.com/d3p1/nextjs-static-template/commit/2b23288d2cc3be2c02af71bdef7153aadedaffbe))
+
 # [1.1.0](https://github.com/d3p1/nextjs-static-template/compare/v1.0.2...v1.1.0) (2026-01-04)
 
 
