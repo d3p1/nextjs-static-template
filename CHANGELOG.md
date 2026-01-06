@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/d3p1/nextjs-static-template/compare/v1.1.2...v1.1.3) (2026-01-06)
+
+
+### Bug Fixes
+
+* add needed commitlint config file [[#1](https://github.com/d3p1/nextjs-static-template/issues/1)] ([31c9b2f](https://github.com/d3p1/nextjs-static-template/commit/31c9b2f9a6b7e4294f66102feddbf620406103e3))
+
 ## [1.1.2](https://github.com/d3p1/nextjs-static-template/compare/v1.1.1...v1.1.2) (2026-01-04)
 
 
