@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/d3p1/nextjs-static-template/compare/v1.1.3...v1.2.0) (2026-01-07)
+
+
+### Features
+
+* add typed routes flag [[#1](https://github.com/d3p1/nextjs-static-template/issues/1)] ([f8d08fd](https://github.com/d3p1/nextjs-static-template/commit/f8d08fd9bf0717bccf78f17410574d578222ac21))
+
 ## [1.1.3](https://github.com/d3p1/nextjs-static-template/compare/v1.1.2...v1.1.3) (2026-01-06)
 
 
