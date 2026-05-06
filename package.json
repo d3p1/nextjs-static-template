@@ -1,6 +1,6 @@
 {
     "name": "app",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "A Next.js template that uses static mode",
     "private": true,
     "scripts": {

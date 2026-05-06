@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/d3p1/nextjs-static-template/compare/v1.2.0...v1.2.1) (2026-05-06)
+
+
+### Bug Fixes
+
+* improve code style [[#1](https://github.com/d3p1/nextjs-static-template/issues/1)] ([5b2db14](https://github.com/d3p1/nextjs-static-template/commit/5b2db14d05ae604e026d3749a575818ed45994cf))
+
 # [1.2.0](https://github.com/d3p1/nextjs-static-template/compare/v1.1.3...v1.2.0) (2026-01-07)
 
 
